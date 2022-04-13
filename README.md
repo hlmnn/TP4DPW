@@ -1,6 +1,8 @@
 # TP4DPW
 Nama    : Hilman Fauzi Herdiana
+
 NIM     : 2000879
+
 Kelas   : Ilmu Komputer C1 2020
 
 # Getting Started with Create React App
